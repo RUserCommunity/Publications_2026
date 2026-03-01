@@ -1,0 +1,11 @@
+The Botswana R Webinar Series is returning with a speaker lineup that reflects the depth, talent, and momentum of our growing data community. Each session brings forward practitioners, researchers, and innovators who are shaping how R is used across Botswana in education, industry, and public service. Their work spans applied analytics, open‑source development, and real‑world problem‑solving, and each talk is designed to offer practical insight you can bring straight into your own projects.
+
+What makes this series special is the spirit behind it: a space where learning is shared openly, where new voices are welcomed, and where the community grows stronger through conversation. Whether you're just beginning with R or already working deeply in data, these speakers will offer perspectives that broaden your thinking and sharpen your skills.
+
+Key reasons to join:
+- Learn directly from experts advancing data practice in Botswana.  
+- Explore tools, methods, and case studies grounded in local context.  
+- Connect with a supportive community committed to open knowledge.  
+- Participate in live discussions that encourage curiosity and collaboration.
+
+Registration is free and open to all. Secure your place and be part of a series that celebrates learning, community, and the power of data.
