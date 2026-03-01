@@ -1,0 +1,92 @@
+R for HTA
+Home
+Events
+Resources
+LMIC Chapter
+Publications
+Talks
+Tutorials
+People
+Contact
+R for trial and model-based cost-effectiveness analysis
+Last updated on Feb 5, 2026
+We are excited to announce the R for Health Technology Assessment (HTA) workshop that will be held on Monday 22nd June, Tuesday 23rd June & Wednesday 24th June 2026.
+
+Monday 22nd June will be in-person day-long hybrid event hosted by the University of Exeter, while other days will be online only (Zoom link provided on booking). Our program will be announced in April. The overall goal is to present interesting and enlightening presentations on the use of R that will engage an audience of those working in the field of health technology assessment and related analysis. Sessions may cover some or all of the following:
+
+New methods and applications for economic modelling using R
+Efficient modelling for economic evaluation using dedicated R packages
+Improving modelling for HTA using R – Lessons from industry and academia
+Teaching economic evaluation and HTA using R
+The in person day will be held at
+
+University of Exeter, St Luke’s Campus, Heavitree Road, Exeter EX1 2LU
+
+More information on travel can be found here and accommodation here.
+
+For any questions before the day, contact the team at RHTAExeter@exeter.ac.uk.
+
+The call for abstracts is not restricted by topic.
+
+Registration for the workshop can be made at this webpage. Please note that we can only accept payments via card.
+
+The registration fee is structured as follows
+
+Attendance type	Standard price	LMIC and students discount*
+Online only (22nd, 23rd & 24th June 2026)	£50	£10
+In person (22nd June) and online (23rd & 24th June 2026)	£90	£65
+NB: LMIC relates to country of residence/occupation and not origin. When registering, you will be asked to give details of your student status or country of occupation.
+
+Registration for the workshop is now open through the UCL Online Store
+We look forward to seeing you there!
+
+
+Call for abstracts
+Deadline 20th March 2026
+We are seeking abstracts for the R for Health Technology Assessment (HTA) workshop that will be held on Monday 22nd June, Tuesday 23rd June & Wednesday 24th June 2026. Monday 22nd will be in-person day-long hybrid event hosted by the University of Exeter, while other days will be online only. Our call for abstracts is broad and relates to no specific topic area. The overall goal is to present interesting and enlightening presentations on the use of R that will engage an audience of those working in the field of health technology assessment and related analysis. While the call is broad, the following considerations will help guide abstract preparation.
+
+We are inviting submissions aimed at an audience with a broad range of expertise with R. Abstracts aimed at beginners are welcome and should be accessible and offer teaching insights. Abstracts for more advanced R users are also invited and can be technically ambitious and presume a knowledge of R and HTA modelling methods. Naturally, more advanced presentations should still attempt to convey broad principles alongside technical detail in order to remain relevant for less expert attendees. Please clearly indicate in your abstract if your submission is aimed at more or less experienced R users.
+
+We welcome any topic you consider interesting and worth sharing. We suggest keeping the scope of the presentation sufficiently narrow to permit a meaningful exposition of a method, use of code or output presentation. Abstracts exemplifying the application of particular packages (not necessarily your own) are welcome. We also welcome the presentations on problems that analysts have encountered and are seeking to prompt discussion on possible solutions. Such problem-related abstracts should address a clearly-defined issue and outline some candidate approaches in order to frame the discussion. We also welcome abstracts related to the practicalities of R modelling, such as cluster or cloud implementation, handling of large datasets and runtime or variance reduction. Submissions may relate to applied analyses or methods research. Similarly, they may relate to simulation modelling or data analysis. Please clearly indicate which best corresponds to your submission in your abstract.
+
+Abstracts should be 300 words or less excluding title and author information. Structured abstracts are encouraged using the format: background; analysis; discussion. Include all co-author name and institutional affiliations.
+
+The deadline for submission of the abstracts is set to 20th March 2026
+
+Your Name*:
+
+Your Email*:
+
+Affiliation*:
+
+Position*:
+
+Country*:
+Country...
+
+Level of expertise in R*:
+Beginner
+
+Type of work*:
+Primarily applied
+
+Title*:
+
+Abstract (max 300 words)*:
+Current word count: 0 / 300
+
+Co-author(s)
+please enter separated by a comma:
+
+
+Click to submit abstract
+
+
+
+
+Full programme
+To be confirmed in April.
+
+Workshop
+
+© R-HTA Consortium 2026-2028 · Based on the Academic theme (version 5.0.0-beta.0) for Hugo · Latest update: 5 Feb 2026
