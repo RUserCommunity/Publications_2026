@@ -1,0 +1,16 @@
+Call for Abstracts and Tutorials for uRos2026 (Paris, 18–20 Nov 2026)
+To R & Official Statistics community: the Call for Abstracts and tutorials is now open for uRos2026: The Use of R in Official Statistics, an on-site conference hosted by INSEE in Paris. Let’s meet, share tools, workflows, packages, and real production experiences with R.
+Details: https://lnkd.in/dNb5GRQJ
+✅ Presentation formats
+Regular presentations (~15 minutes)
+Lightning talks (5 minutes)
+🗓️ Abstract and tutorials submissions deadline: 15 June 2026
+📩 Acceptance notification: 19 July 2026
+🧩 Topics
+Data Access, Integration, and Metadata, Methods for Official Statistics, Applications across statistical domains, Advanced Analytics and AI, Automating and Operationalizing Official Statistics, Reproducibility and Open Science, Visualization and Mapping
+📌 How to submit
+Submissions are handled via SciencesConf platform (account required): https://lnkd.in/dKUTkMwC
+Hope to see many of you in Paris! 🇫🇷
+
+Follow our bilingual website (English & French) for more details: www.urosconf.org
+hashtag#uRos2026 hashtag#rstats hashtag#OfficialStatistics hashtag#RCommunity hashtag#OpenSource hashtag#ReproducibleResearch hashtag#DataScience
