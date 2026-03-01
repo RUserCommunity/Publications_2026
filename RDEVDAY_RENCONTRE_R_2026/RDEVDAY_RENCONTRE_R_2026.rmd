@@ -1,0 +1,6 @@
+R Dev Day at Rencontre R 2026
+R Dev Day is coming to Rencontre R 2026, bringing together developers, package authors, educators, and contributors who are shaping the future of the R ecosystem. This dedicated day is a space for deep technical exchange, open collaboration, and hands‑on exploration of the tools and ideas driving R forward.
+
+Expect sessions that highlight new packages, development workflows, reproducibility practices, and the evolving landscape of open‑source data science. Whether you’re an experienced contributor or curious about getting involved, R Dev Day offers a welcoming environment to learn, share, and build alongside the community.
+
+Join us at Rencontre R 2026 and be part of a day that celebrates innovation, contribution, and the collective energy that keeps R thriving.
