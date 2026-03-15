@@ -1,0 +1,9 @@
+To livestream a webinar on YouTube and LinkedIn simultaneously, you can use a third-party streaming service like Restream. Here's a step-by-step guide:
+
+1. **Create Accounts**: Ensure you have accounts on YouTube, LinkedIn, and Restream.
+2. **Set Up Restream**: Log in to Restream and connect your YouTube and LinkedIn accounts.
+3. **Create a Restream Event**: Schedule your webinar on Restream and get the RTMP URL and stream key.
+4. **Set Up Your Webinar Platform**: If you're using a platform like Zoom, configure it to stream to a custom streaming service. Paste the RTMP URL and stream key from Restream.
+5. **Start Your Webinar**: Begin your webinar on your chosen platform and start the live stream. Restream will broadcast it to both YouTube and LinkedIn simultaneously.
+
+For more detailed instructions, you can check out [this guide](https://www.webinargeek.com/learn/restream-webinars-to-linkedin-facebook-youtube) on how to use Restream with WebinarGeek.
